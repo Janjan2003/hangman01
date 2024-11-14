@@ -1,4 +1,4 @@
-# Hangman Game by Edrian Visagas
+# Hangman Game by Edrian Pisot
 
 Welcome to the **Hangman Game** — a fun and challenging word guessing game built using .NET MAUI. The goal of the game is simple: guess the hidden word by suggesting letters one at a time. However, every wrong guess brings you closer to losing, so play carefully!
 
